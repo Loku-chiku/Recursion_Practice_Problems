@@ -1,3 +1,5 @@
+package Recursion_problems;
+
 public class SubsetsString {
 
     public static void printSubsets(String input, String output, int index){
